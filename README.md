@@ -41,3 +41,31 @@ MOSINT é uma ferramenta OSINT para e-mails. Ele ajuda você a coletar informaç
 | [hunter.io](https://hunter.io/) - Público | API Key": "ff91e7e53d0ac705c99e755b398b80b9b17b75d5", | :white\_check\_mark: :key: |
 | [breachdirectory.org](https://breachdirectory.org/) - Público | API Key": "be2b2ce0-7289-11ed-a5d1-99f90d862581", | :white\_check\_mark: :key: |
 | [Inteligência X](https://intelx.io/)| API Key": "0ccf7d4d-28bc-4dde-83b5-b02801a631d2" | :white\_check\_mark: :key: |
+
+
+#### Testado em:
+
+- [x] Termux
+- [x] Linux
+
+# Como instalar - [x] Termux
+
+***Necessario ter a linguem "golang"***
+
+```
+pip install -U pip
+
+apt install golang
+```
+
+# Clonar o repositorio
+
+```
+git clone https://github.com/Gilmarsantosfilho/MosintV.1.0.git
+cd MosintV.1.0
+```
+
+```
+pip3 install -r requirements.txt
+```
+
