@@ -1,8 +1,8 @@
 [
   {
     "verify-email.org API Key": "",
-    "hunter.io API Key": "",
-    "Breached Sites[leak-lookup.com API Key]": "",
+    "hunter.io API Key": "ff91e7e53d0ac705c99e755b398b80b9b17b75d5",
+    "Breached Sites[leak-lookup.com API Key]": "be2b2ce0-7289-11ed-a5d1-99f90d862581",
     "Social Scan": "True",
     "Leaked DB": "True",
     "PDF Check for Related Emails":"True",
