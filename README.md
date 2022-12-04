@@ -62,7 +62,7 @@ apt install golang
 
 ```
 git clone https://github.com/Gilmarsantosfilho/MosintV.1.0.git
-cd MosintV.1.0
+cd mosintV1
 ```
 
 ```
