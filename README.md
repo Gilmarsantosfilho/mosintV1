@@ -43,6 +43,28 @@ MOSINT é uma ferramenta OSINT para e-mails. Ele ajuda você a coletar informaç
 | [Inteligência X](https://intelx.io/)| API Key": "0ccf7d4d-28bc-4dde-83b5-b02801a631d2" | :white\_check\_mark: :key: |
 
 
+Você pode desativar os recursos no `config.json` 
+
+```javascript
+[
+{
+  "verify-email.org API Key": "set API KEY here",
+  "hunter.io API Key": "set API KEY here",
+  "Breached Sites[leak-lookup.com API Key]": "set API KEY here",
+  "Social Scan": "True",
+  "Leaked DB": "True",
+  "Related Phone Numbers" : "True",
+  "Related Domains" : "True",
+  "Pastebin Dumps": "True",
+  "Google Search": "True",
+  "DNS Lookup": "True"
+}
+]
+```
+
+
+
+
 #### Testado em:
 
 - [x] Termux
