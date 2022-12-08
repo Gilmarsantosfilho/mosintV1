@@ -1,0 +1,19 @@
+echo "Instalando requirements"
+echo "Seja Calmo"
+
+sleep 4 
+
+echo "Instalando 10 pacotes"
+
+sleep 4
+
+pip install google
+pip install socialscan
+pip install requests
+pip install anytree
+pip install prettytable
+pip install PyPDF2
+pip install tabula
+pip install tabula-py
+pip install beautifulsoup4
+pip install verify-email
