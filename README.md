@@ -91,3 +91,8 @@ cd mosintV1
 pip3 install -r requirements.txt
 ```
 
+```
+python3 mosint.py -e gilmartikinho270@gmail.com
+```
+
+
